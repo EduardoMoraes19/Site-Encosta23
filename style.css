@@ -12,3 +12,10 @@ body{
     background-color: black;
     color: white;
 }
+#dov{
+    display: flex;
+    justify-content: center;
+}
+#titulo{
+    text-align: center;
+}
