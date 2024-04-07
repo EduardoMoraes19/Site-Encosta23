@@ -21,6 +21,7 @@ main{
 #dov{
     display: flex;
     justify-content: center;
+    filter: drop-shadow(10px 10px 20px green);
 }
 #titulo{
     text-align: center;
